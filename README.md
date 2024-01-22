@@ -4,7 +4,6 @@ class Program
 {
     static void Main (string[] args)
     {
-        Console.WriteLine("Hello World!!!");
-        C
+        Console.WriteLine("Hello! My name is Sameep.");
     }
 }
