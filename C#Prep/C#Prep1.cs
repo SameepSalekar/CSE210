@@ -1,6 +1,5 @@
 using System;
-namespace game
-{
+
     class Program
     {
         static void Main(string[]args)
@@ -14,4 +13,3 @@ namespace game
             Console.WriteLine($"Your name is {last_name}, {first_name} {last_name}.");
         }
     }
-}
